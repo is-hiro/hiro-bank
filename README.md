@@ -1,6 +1,6 @@
 # HiroBank SPA (vanilla JS)
 
-A small single-page app that mimics a banking dashboard: card info, transactions, statistics, balance operations, and money transfer — built **without frameworks**.  
+> A small single-page app that mimics a banking dashboard: card info, transactions, statistics, balance operations, and money transfer — built **without frameworks**.  
 Instead of React/Vue, the project uses a lightweight custom component system (HTML templates + CSS Modules), a tiny DOM helper, a History API router, and a simple store with observers.
 ---
 
